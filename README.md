@@ -1,11 +1,7 @@
-<div align="center">
-  <h1 align="center">Gh0stKey 🇨🇳</h1>
-   <p align="center">
-    Mystery Security Team - Hack The World.
-   </p> 
-   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stkey&layout=compact&hide=css' alt="githubprofilecard" />
-</div>
-<br/>
+### 🤡 About Me
+ID: gh0stkey
+Team: Mystery Security
+Favorite: Music / Hacker / Code ...
 
 ### 🚀 Recent project
 
@@ -21,6 +17,6 @@
 
 ### 👀 My Blog
 
-[Blog](https://gh0st.cn)
+[My Blog](https://en.gh0st.cn)
 
 <img src='https://github-readme-stats.vercel.app/api?username=gh0stkey&hide=["issues"]&show_icons=true' alt="githubprofilecard" />
