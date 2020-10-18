@@ -6,7 +6,7 @@ Team: Mystery Security
 
 Favorite: Music / Hacker / Code ...
 
-### Recent project
+### Recent Project
 
 - [PoCBox](https://github.com/Acmesec/PoCBox): 赏金猎人的脆弱性测试辅助平台
 
