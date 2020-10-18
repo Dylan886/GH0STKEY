@@ -1,4 +1,4 @@
-### 🤡 About Me
+### About Me
 
 ID: gh0stkey
 
@@ -6,7 +6,7 @@ Team: Mystery Security
 
 Favorite: Music / Hacker / Code ...
 
-### 🚀 Recent project
+### Recent project
 
 - [PoCBox](https://github.com/Acmesec/PoCBox): 赏金猎人的脆弱性测试辅助平台
 
@@ -18,8 +18,10 @@ Favorite: Music / Hacker / Code ...
 
 [...Others](https://github.com/gh0stkey?tab=repositories)
 
-### 👀 My Blog
+### Github Stats
 
-[My Blog](https://en.gh0st.cn)
+<img src="https://github-readme-stats.vercel.app/api?username=gh0stkey&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
 
-<img src='https://github-readme-stats.vercel.app/api?username=gh0stkey&hide=["issues"]&show_icons=true' alt="githubprofilecard" />
+### Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/gh0stkey/count.svg)
